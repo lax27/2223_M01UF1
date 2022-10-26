@@ -1,6 +1,6 @@
 #/bin/ba
 NUMERO_RANDOM=$((RANDOM % 100 +1))
-
+echo "empieza el juego"  
 echo "adivina un numero del 1 al 100"
 #las variavles son ints
 # NUM=0
